@@ -37,7 +37,7 @@ The model is trained over **100 epochs** with a batch size of 32. Training progr
 ## 🚀 How to Run
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/your-username/Weather-Prediction-LSTM.git](https://github.com/your-username/Weather-Prediction-LSTM.git)
+    git clone [https://github.com/VirajsNexus/Weather-Prediction-LSTM.git]([https://github.com/VirajsNexus/Weather-Prediction-LSTM.git)
     ```
 2.  Install the required dependencies:
     ```bash
