@@ -37,13 +37,16 @@ The model is trained over **100 epochs** with a batch size of 32. Training progr
 ## 🚀 How to Run
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/VirajsNexus/Weather-Prediction-LSTM.git]([https://github.com/VirajsNexus/Weather-Prediction-LSTM.git)
+    git clone https://github.com/VirajsNexus/Weather-Prediction-LSTM.git
     ```
-2.  Install the required dependencies:
+2.  Navigate into the project folder:
+    ```bash
+    cd Weather-Prediction-LSTM
+    ```
+3.  Install the required dependencies:
     ```bash
     pip install pandas numpy matplotlib seaborn tensorflow
     ```
-3.  Place the `seattle-weather.csv` file in the project directory.
 4.  Run the Jupyter Notebook:
     ```bash
     jupyter notebook weather-prediction-using-LSTM.ipynb
